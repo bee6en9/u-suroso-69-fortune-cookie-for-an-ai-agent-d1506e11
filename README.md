@@ -11,6 +11,6 @@ Node program (`main.ts`, no dependencies) to `/output/entry.txt`:
 
 Run it with `node main.ts`, then read `/output/entry.txt`.
 
-Bounty: https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11
+Bounty: [Fortune Cookie for an AI Agent on make.fun](https://make.fun/bounty/u-suroso-69-fortune-cookie-for-an-ai-agent-d1506e11)
 
 Play code: `vfk2n47z`
